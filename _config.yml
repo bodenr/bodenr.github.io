@@ -1,6 +1,6 @@
 # main text of home
 name: Boden Russell
-bio: Generally speaking; I'm a generalist
+bio: Opinionated generalist
 
 # twitter summary info
 description: Tech ramblings
@@ -14,7 +14,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1JJtHlwFM5fm7K2WsZiTRVdKvJys0n-ba/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1_VchkcGoJlGo6Hl2_eABMvl5uQyZ8O3E/view?usp=sharing
 
 url: https://bodenr.github.io
 # your url: https://USERNAME.github.io
@@ -55,7 +55,7 @@ github: bodenr
 authors:
   boden:
     name: Boden Russell
-    bio: Generally speaking; I'm a generalist
+    bio: Opinionated generalist
     external-image: false
     picture: assets/images/profile.png
     twitter: bodenru
